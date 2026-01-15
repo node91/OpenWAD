@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OpenWAD.vcxproj" Id="74dfb47b-82a9-432a-9845-f045ab852c9f" />
+</Solution>
